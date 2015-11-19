@@ -5,8 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+Learning Ruby on Rails using GitHub...
 
+* Ruby version
+     
 * System dependencies
 
 * Configuration
